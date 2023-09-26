@@ -1,7 +1,7 @@
 # Employee-REST-API
 api to manage employees and there departments
 
-[![Run in Postman](https://run.pstmn.io/button.svg)]()
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://api.postman.com/collections/27464457-c34802a6-6197-4d01-9f4c-94acdcf7982b?access_key=PMAT-01HB8N2NH4WMSG7YVZKZ7G8D9H)
 
 
 ## Requirements
